@@ -3,7 +3,7 @@ variable "fortigate_ip" {
     type = string
 }
 
-variable "fortigate_token" {
+variable "bearer_token" {
     description = "API token of the fortigate device"
     type = string
 }
