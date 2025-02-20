@@ -9,6 +9,6 @@ terraform {
 
 provider "fortios" {
   hostname = var.fortigate_ip
-  token = var.fortigate_token
+  token = var.bearer_token
   insecure = true
 }
