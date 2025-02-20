@@ -1,4 +1,3 @@
-# NTP Config
 variable "fortigate_ip" {
   description = "IP of the fortigate device"
   type = string
