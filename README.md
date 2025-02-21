@@ -49,7 +49,7 @@ Automates the integration of FortiGate with FortiManager, including:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/terraform-fortigate.git
+git clone https://github.com/justmirr/terraform-fortigate.git
 cd terraform-fortigate
 
 # Navigate to the required module (inside onboarding, hardening, or fortimanager)
